@@ -10,4 +10,8 @@
  ![declaring-optional-variable](declaring-optional-variable.png)
  
  */
-//: [Next](@next)
+
+var myName : String
+
+var yourName : String?
+
